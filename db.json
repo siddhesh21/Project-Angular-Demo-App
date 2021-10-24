@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Good Meal",
+      "day": "Early Morning 7:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Ace in the Interview",
+      "day": "Whenever",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Prepare for the Interviews",
+      "day": "Always",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Go to Workout",
+      "day": "Afternoon",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Go for Grocery",
+      "day": "Evening",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Go to Bed",
+      "day": "Night",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Watch Entertainment",
+      "day": "Night",
+      "reminder": true
+    }
+  ]
+}
